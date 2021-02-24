@@ -1,0 +1,1 @@
+*Please enter questions and answers pairs about the following sentence. Use /q to send questions and /a for answers. When you're done generating QAs for the current sentence, type /poll to receive another one. Type /help for usage examples*.

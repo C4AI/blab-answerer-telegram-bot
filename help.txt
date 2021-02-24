@@ -1,0 +1,9 @@
+Ex.:
+/q What is my name?
+/a QAGeneratorBot, the greatest
+Questions and answers will be aligned in the same order they were sent. For example, if you type:
+/a QAGeneratorBot, the greatest
+/q What is my name?
+/q What is the color of Telegram symbol?
+/a blue
+the resulting entries on the database will be {(What is this bot's name?, QAGeneratorBot, the greatest), (What is the color of Telegram symbol?, blue)}
